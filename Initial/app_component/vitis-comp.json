@@ -1,0 +1,15 @@
+{
+  "name": "app_component",
+  "type": "HOST",
+  "platform": "C:\\Users\\Aidan_Highsmith1\\Box\\Softcore_SoC\\fpro_walkthrough\\vanilla0\\export\\vanilla0\\vanilla0.xpfm",
+  "domain": "standalone_microblaze_I",
+  "cpuInstance": "microblaze_I",
+  "cpuType": "microblaze",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_I",
+  "applicationFlow": "EMBEDDED"
+}
